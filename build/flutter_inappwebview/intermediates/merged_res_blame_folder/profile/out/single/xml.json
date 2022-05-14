@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/xml/provider_paths.xml",
+        "source": "/Users/tariquekhan/Flutter_Development/2.8.1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappwebview-5.4.3+7/android/src/main/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/xml/image_share_filepaths.xml",
+        "source": "/Users/tariquekhan/.gradle/caches/transforms-2/files-2.1/bcd58f4f8b0dea68667096f26243123a/browser-1.4.0/res/xml/image_share_filepaths.xml"
+    }
+]

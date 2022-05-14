@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/menu/example_menu2.xml",
+        "source": "/Users/tariquekhan/.gradle/caches/transforms-2/files-2.1/b9a960218f5163997c0fdfa3d3078c0e/core-1.7.0/res/menu/example_menu2.xml"
+    },
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/menu/example_menu.xml",
+        "source": "/Users/tariquekhan/.gradle/caches/transforms-2/files-2.1/b9a960218f5163997c0fdfa3d3078c0e/core-1.7.0/res/menu/example_menu.xml"
+    },
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/menu/menu_main.xml",
+        "source": "/Users/tariquekhan/Flutter_Development/2.8.1/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappwebview-5.4.3+7/android/src/main/res/menu/menu_main.xml"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/color-v23/abc_tint_default.xml",
+        "source": "/Users/tariquekhan/.gradle/caches/transforms-2/files-2.1/7ed8866a153ba11c73fe6ed707b862b7/appcompat-1.4.1/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/tariquekhan/.gradle/caches/transforms-2/files-2.1/7ed8866a153ba11c73fe6ed707b862b7/appcompat-1.4.1/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/tariquekhan/.gradle/caches/transforms-2/files-2.1/7ed8866a153ba11c73fe6ed707b862b7/appcompat-1.4.1/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/tariquekhan/.gradle/caches/transforms-2/files-2.1/7ed8866a153ba11c73fe6ed707b862b7/appcompat-1.4.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/tariquekhan/.gradle/caches/transforms-2/files-2.1/7ed8866a153ba11c73fe6ed707b862b7/appcompat-1.4.1/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/tariquekhan/.gradle/caches/transforms-2/files-2.1/7ed8866a153ba11c73fe6ed707b862b7/appcompat-1.4.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/tariquekhan/.gradle/caches/transforms-2/files-2.1/7ed8866a153ba11c73fe6ed707b862b7/appcompat-1.4.1/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/tariquekhan/.gradle/caches/transforms-2/files-2.1/7ed8866a153ba11c73fe6ed707b862b7/appcompat-1.4.1/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/tariquekhan/Flutter_Development/qube_health_assignment/build/flutter_inappwebview/intermediates/res/merged/profile/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/tariquekhan/.gradle/caches/transforms-2/files-2.1/7ed8866a153ba11c73fe6ed707b862b7/appcompat-1.4.1/res/color-v23/abc_tint_switch_track.xml"
+    }
+]
